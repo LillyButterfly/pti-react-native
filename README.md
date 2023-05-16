@@ -1,6 +1,6 @@
 # PTI Porgramação para Dispositiovs Móveis
 
-![Imagem do WhatsApp de 2023-05-15 à(s) 23 43 32](https://github.com/LillyButterfly/pti-react-native/assets/88951197/a2063598-e3a0-4bd8-8e88-1f6894664559)
+<img![Imagem do WhatsApp de 2023-05-15 à(s) 23 43 32](https://github.com/LillyButterfly/pti-react-native/assets/88951197/a2063598-e3a0-4bd8-8e88-1f6894664559)min-width="100px" max-width="200px" width="150px" align="center">
 
 
 > Projeto Senac SP
