@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LillyButterfly/pti-react-native/assets/88951197/263fe788-b9b1-4475-a753-6296e474db18" min-width="100px" max-width="200px" width="150px" align="center" alt="Tela do projeto">
 
-
+<br>
 > Projeto Senac SP
 
 
