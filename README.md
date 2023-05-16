@@ -1,6 +1,6 @@
 # PTI Porgramação para Dispositiovs Móveis
 
-<img src="[https://user-images.githubusercontent.com/88951197/233518135-e1e2d16a-530d-40ba-8033-f5028582e4e9.PNG](https://github.com/LillyButterfly/pti-react-native/assets/88951197/a2063598-e3a0-4bd8-8e88-1f6894664559)" min-width="100px" max-width="200px" width="150px" align="center" alt="Tela do projeto">
+<img src="https://github.com/LillyButterfly/pti-react-native/assets/88951197/263fe788-b9b1-4475-a753-6296e474db18" min-width="100px" max-width="200px" width="150px" align="center" alt="Tela do projeto">
 
 
 > Projeto Senac SP
